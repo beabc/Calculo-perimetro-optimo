@@ -2,7 +2,9 @@
 Repositorio en el que la empresa Meteologica solicitó, en su segunda fase del proceso de selección para vacante de programador C++/Perl/Python, la realización de al menos uno de los 3 ejercicios propuestos vía mail. 
 
 El ejercicio elegido fue el número 3 con el siguiente enunciado:
+
 Construcción económica de vallas
+
 Tenemos algunos bosques por el campo, y queríamos construir una valla alrededor para que no entre ningún pirómano. Cada uno de esos bosques tiene los árboles distribuidos de forma irregular, y queremos vallarlos de la forma más económica posible, es decir, minimizando la longitud total de la valla. El ejercicio consiste en hacer un pequeño programa que dada una serie de puntos nos devuelve el polígono que corresponderá a la valla (basta con los vértices de ese polígono).
 
 Este ejercicio ha sido desarrollado en Python con las siguiente librerías de open source:
