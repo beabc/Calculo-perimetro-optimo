@@ -5,6 +5,7 @@ Repositorio en el que la empresa Meteologica solicitó, en su segunda fase del p
  - Matplotlib
  - Math
  - Random
+ 
 Para la resolución de este ejercicio, se han calculado las pendientes de las rectas de los puntos (árboles), de forma que, el ángulo mayor (recta con mayor pendiente) es el siguiente punto del perímetro. Resaltar, que para la correcta selección de la mayor pendiente, se deben hallar, primero, los cuadrantes en los que están ubicados los puntos comprobando las inclinaciones por ese orden.
 
 Por último, la comprobación del perímetro se realiza con una visualización en terminal.
