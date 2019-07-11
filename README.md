@@ -1,6 +1,5 @@
-# meteologica
-Repositorio en el que la empresa Meteologica solicitó, en su segunda fase del proceso de selección para vacante de programador C++/Perl/Python, la realización de al menos uno de los 3 ejercicios propuestos vía mail. 
 
+Repositorio para segunda fase del proceso de selección para vacante de programador C++/Perl/Python.
 El ejercicio elegido fue el número 3 con el siguiente enunciado:
 
 Construcción económica de vallas
